@@ -1,0 +1,82 @@
+
+		body{
+			font-family: 'Lato', sans-serif; margin: o;
+		}
+	.portfolio {
+  width: 1200px;
+   
+    margin: 50px auto;
+ 
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 50px #00000038;
+    text-align: center;
+}
+	iframe{
+		margin: 0 auto;
+		display: block;
+		border-radius: 10px;
+		box-shadow: 0px 0px 50px #00000038;
+	}
+h1 {
+    margin: 0;
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 900;
+    color: #07c6cb;
+}
+	p {
+		font-size: 22px;
+		font-weight: 400;
+		line-height: 1.3;
+	}	
+	.color1{
+color: red;
+	}
+		.color2{
+color: green;
+	}
+mark {
+    background-color: #15459d;
+    color: #fff;
+    padding: 3px 5px;
+    display: inline-block;
+    border-radius: 10px;
+}
+h2{
+margin: 0;
+color: black;
+font-size: 70px;
+}
+.section_01{
+	text-align: center;
+	padding: 200px 0;
+	background-position: bottom;
+	background-size: cover;
+
+	background-image: url(../images/bg.jpg);
+	background-attachment: fixed;
+}
+
+.section_02{
+	text-align: center;
+	padding: 200px 0;
+	background-position: bottom;
+	background-size: cover;
+	background-attachment: fixed;
+
+	background-image: url(https://images.pexels.com/photos/1224766/pexels-photo-1224766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+
+
+.color3{
+	color: white;
+}
+.color4{
+	color: black;
+}
+
+
+
+
